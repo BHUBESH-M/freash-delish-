@@ -1,0 +1,192 @@
+
+.fullpage{
+    position: absolute;
+}
+
+.login{
+    position: absolute;
+    margin-top: 120px;
+    left: 40%;
+    height: 520px;
+    width: 500px;
+    background-color: #E2FFED;
+    border-radius: 30px;
+    box-shadow: 0 5px 5px hsl(0deg 0% 0% / 0.3);
+}
+.tt h3{
+    position: relative;
+    left: 200px;
+    margin-top: -35px;
+    font-family:"Roboto Condensed", sans-serif;
+    font-weight: 50px;
+    font-size: 25px;
+}
+.p1{
+    margin-top: px;
+    right:1200px ;
+    font-size: 17px;
+}
+
+.top-icon
+{
+    position: absolute;
+    margin-top: -25px;
+    height: 70px;
+    width: 70px;
+    margin-left: 210px;
+    border-radius: 50%;
+    background-color: #209E20;
+    color: #ffffff;
+}
+.title h4{
+    
+    padding-left: 20px;
+    margin-top: -10px;
+    font-family:"Roboto Condensed", sans-serif;
+    font-weight: 50px;
+    font-size: 25px;
+
+}
+
+.top-icon i{
+    font-size: 40px;
+    padding: 14px; ;
+}
+.part1-icon{
+    margin-left:160px ;
+    color: #209E20;
+    
+}
+.part1-icon i{
+    margin-top: -80px;
+    font-size: 30px;
+
+}
+.la h2{
+    padding-left: 145px;
+    margin-top: -30px;
+    font-family:"Roboto Condensed", sans-serif;
+    font-weight: 5px;
+    font-size: 27px;
+}
+
+.login-part1{
+    padding: 20px;
+}
+.login-r1{
+    padding-top: 60px;
+}
+.login-col1{
+    margin-left: -50;
+}
+.title{
+    position: absolute;
+    margin-top: -20px;
+    /* margin-bottom: 170px; */
+    font-size: 10px;
+    margin-left: 200px;
+}
+ h5{
+    text-align: center;
+    font-weight: 160;
+    font-weight: bolder;
+    font-size: 55px;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+p{
+    text-align: left;
+    padding-top: 10px;
+    font-weight: 400;
+}
+.username p{
+    margin-top: -10px;
+    text-align: left;
+    font-weight: 500;
+
+}
+.password p{
+    position: relative;
+    text-align: left;
+    font-weight: 500;
+    top: -30px;
+    
+
+}
+
+.checkbox{
+    padding-top: 20px;
+    float: left;
+    margin-top: -50px;
+}
+.checkbox input{
+    height: 15px;
+    width: 20px;
+    background-color: transparent;
+    color: transparent;
+    margin-right: 10px;
+    margin-bottom: -100px;
+    cursor: pointer;
+}
+.checkbox label{
+    font-weight: 400;
+    color: #A3A3A3;
+}
+.forgot p{
+    margin-top: 10px;
+    margin-top: -135px;
+    right: 20px;
+    font-weight: 600;
+     position: absolute;
+     color: #A3A3A3;
+}
+.forget a:hover{
+    text-decoration: none;
+    color: #A3A3A3;
+}
+.buttonbox {
+   margin-top: 10px;
+}
+
+.buttonbox button{
+    margin-top: 10px;
+    height:42px;
+    width: 100%;
+    border-radius: 10px;
+    background-color: #209E20;
+    color: #ffffff;
+    font-weight: 600;
+
+}
+/* input[type=text], select {
+    position: relative;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    top: -19px;
+  } */
+  /* input[type=password], select {
+    position: relative;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    top: -40px;
+  } */
+  .f1{
+    position: relative;
+    top: -10px;
+  }
+  .f2{
+    position: relative;
+    top: -10px;
+  }
+
+
